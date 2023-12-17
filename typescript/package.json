@@ -1,5 +1,5 @@
 {
-  "name": "Rocket game task",
+  "name": "rocketgametask",
   "scripts": {
     "start": "snowpack dev",
     "build": "snowpack build",
